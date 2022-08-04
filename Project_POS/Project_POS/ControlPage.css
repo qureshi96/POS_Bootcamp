@@ -1,0 +1,21 @@
+﻿body {
+   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}
+#div_accountantAdd{
+    padding-top:5%;
+    padding-left:2%;
+    background-color:snow;
+    border-radius:5%;
+    
+}
+#div_customerAdd{
+    padding-top:5%;
+    padding-left:2%;
+    background-color:azure;
+    border-radius:5%;
+}
+#div_itemAdd {
+    padding-top: 5%;
+    padding-left: 2%;
+    background-color:gainsboro ;
+    border-radius: 5%;
+}
